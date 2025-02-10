@@ -6,6 +6,8 @@ Este documento presenta una introducción a las pruebas de carga y estrés reali
 
 🔗 **[API Coordinadora](https://apiv2-test.coordinadora.com/guias/cm-guias-consultas-ms/guia/99020012725)**
 
+# 🔗 **[Documento con los resultados y analisis de la prueba](https://drive.google.com/file/d/1PSxr3GuPbwQfZHaPgoT-WMAb3-Jupymu/view?usp=sharing)**
+
 ## 🎯 Objetivo
 
 El objetivo principal de estas pruebas es evaluar exhaustivamente el desempeño del sistema bajo diversas condiciones de carga. Buscamos identificar el límite máximo de capacidad del API y observar su comportamiento a medida que aumentamos gradualmente tanto el número de usuarios concurrentes como la frecuencia de las solicitudes.
